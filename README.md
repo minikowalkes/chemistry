@@ -1,5 +1,4 @@
-There's nothing here yet. Give me a minute lol. <br>
-<br>
+# Minikowalkes Chemistry Repository
 I don't know how git works, and I don't know how open source works. <br>
 I don't know if the GNU free software agreement actually legally protects me. <br>
 If it doesn't, here's my own 'legality' warning; <br>
@@ -16,14 +15,26 @@ These programs were created without the use of ANY Artificial Intelligence. <br>
 For all intents and purposes, this is a solo project. <br>
 I will deny commits/pushes/whatever else from people who I do not know. <br>
 <br>
+**Notes**<br>
+- I'm super bored of Python, but I really don't know much else.
+- After this summer, hopefully these files will be translated to java and c
+"Ludwig Boltzmann, who spent much of his life studying statistical mechanics, <br>
+died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died <br>
+similarly in 1933. Now it is our turn to study statistical mechanics." <br>
+-- D.L. Goodstein (1974)
 <br>
 <br>
-**ROADMAP:** <br>
-ideal gas law equation solver <br>
-unit conversion machine <br>
+<br>
+**ROADMAP: (in no particular order)** <br>
+ideal gas law equation solver (v0.1) <br>
+unit conversion machine (v0.1) <br>
+constant unit reference <br>
 periodic table <br>
-possible visual periodic table "app"? <br>
+Hess's Law equation solver <br>
+Regex pattern matching machine <br>
+chemical equation balancer <br>
+reaction analyzer <br>
 <br>
-# that's it for right now. <br>
+**that's it for right now.** <br>
 <br>
 --minikowalkes
