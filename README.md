@@ -25,7 +25,7 @@ similarly in 1933. Now it is our turn to study statistical mechanics." <br>
 <br>
 <br>
 <br>
-**ROADMAP: (in no particular order)** <br>
+**ROADMAP:** (in no particular order) <br>
 ideal gas law equation solver (v0.1) <br>
 unit conversion machine (v0.1) <br>
 constant unit reference <br>
@@ -35,6 +35,6 @@ Regex pattern matching machine <br>
 chemical equation balancer <br>
 reaction analyzer <br>
 <br>
-**that's it for right now.** <br>
+**that's it for right now.**
 <br>
 --minikowalkes
