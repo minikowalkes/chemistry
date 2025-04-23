@@ -17,7 +17,7 @@ I will deny commits/pushes/whatever else from people who I do not know. <br>
 <br>
 **Notes**<br>
 - I'm super bored of Python, but I really don't know much else.
-- After this summer, hopefully these files will be translated to java and c
+- After this summer, hopefully these files will be translated to java and c <br>
 "Ludwig Boltzmann, who spent much of his life studying statistical mechanics, <br>
 died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died <br>
 similarly in 1933. Now it is our turn to study statistical mechanics." <br>
