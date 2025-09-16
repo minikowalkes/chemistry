@@ -16,8 +16,6 @@ For all intents and purposes, this is a solo project. <br>
 -- Straight up need a new versioning schema, periods break a lot of platforms.<br>
 -- HELLO, WE'RE BACK DEPARTMENT!? ID LIKE TO FILE A CLAIM.<br>
 <br>
-<br>
-<br>
 <h2>ROADMAP:</h2><br>
 calc u lator <br>
 ideal gas law equation solver<br>
