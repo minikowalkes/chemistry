@@ -15,6 +15,9 @@ For all intents and purposes, this is a solo project. <br>
 -- You thought I'd abandoned this project!? THINK AGAIN<br>
 -- Straight up need a new versioning schema, periods break a lot of platforms.<br>
 -- HELLO, WE'RE BACK DEPARTMENT!? ID LIKE TO FILE A CLAIM.<br>
+-- also we're going to go about this in the most convoluted way<br>
+   by developing code in an IDE and then copy pasting like a damn<br>
+   caveman, the way GOD INTENDED.<br>
 <br>
 <h2>ROADMAP:</h2><br>
 calc u lator <br>
