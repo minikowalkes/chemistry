@@ -1,0 +1,4 @@
+created class chemType
+
+I'll add more when I'm not feeling ridiculously defeated.
+Tried to make a derived class but failed miserably.
