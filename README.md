@@ -20,6 +20,7 @@ For all intents and purposes, this is a solo project. <br>
    caveman, the way GOD INTENDED.<br>
 <br>
 <h2>ROADMAP:</h2><br>
+moleType.h, moleType.cpp, update chemTypeTest FIRST PRIORITY FR FR <br>
 calc u lator <br>
 ideal gas law equation solver<br>
 unit conversion machine<br>
