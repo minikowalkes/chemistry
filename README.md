@@ -20,16 +20,7 @@ For all intents and purposes, this is a solo project. <br>
    caveman, the way GOD INTENDED.<br>
 <br>
 <h2>ROADMAP:</h2><br>
-moleType.h, moleType.cpp, update chemTypeTest FIRST PRIORITY FR FR <br>
-calc u lator <br>
-ideal gas law equation solver<br>
-unit conversion machine<br>
-constant unit reference<br>
-periodic table <br>
-Hess's Law equation solver <br>
-Regex pattern matching machine <br>
-chemical equation balancer <br>
-reaction analyzer <br>
+uhhhh no idea.<br>
 <br>
 <strong>that's it for right now.</strong><br>
 <br>
